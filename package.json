@@ -1,0 +1,15 @@
+{
+  "name": "aleph",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Thibault OLLIVIER",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "apes-blog": "remote-underground/apes-blog"
+  }
+}

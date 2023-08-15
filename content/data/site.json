@@ -1,0 +1,21 @@
+{
+  "name": "L'Aleph",
+  "url": "https://thibaultollivier.fr",
+  "author": {
+    "name": "Caesar",
+    "email": "remote.underground@gmail.com"
+  },
+  "headerLinks": [
+    {
+      "text": "Blog",
+      "url": "/blog/",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about/",
+      "external": false
+    }
+  ],
+  "showFooterAttribution": true
+}
